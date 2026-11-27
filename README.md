@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leftlyy.netlify.app"><b>Live demo</b></a> ·
+  <a href="[https://leftlyy.netlify.app](https://omaruevo.github.io/Leftly/)"><b>Live demo</b></a> ·
   <a href="#features">Features</a> ·
   <a href="#getting-started">Getting started</a>
 </p>
