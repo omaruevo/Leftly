@@ -81,7 +81,7 @@ No installation is needed.
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/gloomyygl/leftly.git
+   git clone https://github.com/omaruevo/leftly.git
    ```
 2. Open `index.html` in your browser.
 
